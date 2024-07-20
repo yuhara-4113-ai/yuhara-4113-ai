@@ -1,7 +1,18 @@
 <!-- 1. GitHub -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=yuhara-4113-ai" />
-</div>
+<p align="left">
+  <a href="https://github.com/yuhara-4113-ai/yuhara-4113-ai/">
+    <img src="https://komarev.com/ghpvc/?username=yuhara-4113-ai" alt="yuhara-4113-ai" />
+  </a>
+  <a href="https://github.com/yuhara-4113-ai">
+    <img height="20" src="https://img.shields.io/github/followers/yuhara-4113-ai?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/parayan0429">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/parayan0429/posts.svg" />
+  </a>
+  <//qiita.com/yuhara-4113-ai">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/parayan0429/contributions.svg" />
+  </a>
+</p>
 
 
 <!-- 2. プロフィールや連絡先 -->
