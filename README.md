@@ -19,7 +19,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning Flutter!
+- 🌱 I’m currently learning Flutter and React!
 - 📫 How to reach me: [Qiita - @parayan0429](https://qiita.com/parayan0429)
 <br>
 
@@ -28,7 +28,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,java,spring,python,dart,flutter,aws,postman" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,java,spring,python,dart,flutter,nodejs,react,aws,postman" />
 <br>
 
 
