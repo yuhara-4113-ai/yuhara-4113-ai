@@ -37,7 +37,7 @@
 ## 🏃‍♀️ Activities
 <div align="left">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-gamma-wheat-76.vercel.app/api?username=yuhara-4113-ai&theme=vue-dark&count_private=true&include_all_commits=true" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-gamma-wheat-76.vercel.app/api/top-langs/?username=yuhara-4113-ai&theme=vue-dark&layout=compact&count_private=true&hide=python" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-gamma-wheat-76.vercel.app/api/top-langs/?username=yuhara-4113-ai&theme=vue-dark&layout=compact&count_private=true&hide=python,roff" />
 </div>
 
 <!-- GitHub 草 https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> -->
