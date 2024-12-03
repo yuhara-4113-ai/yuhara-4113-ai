@@ -35,9 +35,9 @@
 <!-- 4. GitHub -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yuhara-4113-ai&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhara-4113-ai&theme=vue-dark&layout=compact" />
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-gamma-wheat-76.vercel.app/api?username=yuhara-4113-ai&theme=vue-dark&count_private=true" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-gamma-wheat-76.vercel.app/api/top-langs/?username=yuhara-4113-ai&theme=vue-dark&layout=compact&count_private=true" />
 </div>
 
 <!-- GitHub 草 https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> -->
