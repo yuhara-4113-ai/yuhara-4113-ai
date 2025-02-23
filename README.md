@@ -20,6 +20,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning Flutter and React!
+  - But recently I've been studying kotlin because my job is Android app development.
 - 📫 How to reach me: [Qiita - @parayan0429](https://qiita.com/parayan0429)
 <br>
 
@@ -28,7 +29,9 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,java,spring,python,dart,flutter,nodejs,react,aws,postman" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,java,spring,python,dart,flutter,kotlin,react,nodejs,aws,dynamodb,githubactions" />
+<br>
+<img alt="my tools" src="https://skillicons.dev/icons?theme=dark&perline=7&i=github,vscode,androidstudio,eclipse,postman" />
 <br>
 
 
