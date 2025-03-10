@@ -38,7 +38,7 @@
 <!-- 4. GitHub -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuhara-4113-ai)](https://github.com/yuhara-4113-ai)/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuhara-4113-ai)](https://github.com/yuhara-4113-ai/github-profile-trophy)
 
 <div align="left">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-gamma-wheat-76.vercel.app/api?username=yuhara-4113-ai&theme=vue-dark&count_private=true&include_all_commits=true" />
